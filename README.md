@@ -22,3 +22,5 @@ Follow the steps below to build and run lcd4linux locally using software charact
 5. After successfully running lcd4linux open another terminal and run `loadloop.sh`. The `loadloop.sh` script is to push memory and CPU data into a separate directory that will be read by lcd4linux using the `FIFO` and `ReadFile` plugins.
 
 
+https://github.com/user-attachments/assets/43689db2-aa90-45aa-9c78-69c0ea9eb56f
+
